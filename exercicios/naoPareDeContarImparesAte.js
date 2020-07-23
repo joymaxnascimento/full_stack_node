@@ -1,4 +1,4 @@
-const naoPareDeContarImparesAte = function(numero){
+function  naoPareDeContarImparesAte(numero){
     let numerosImpares = 0
     for(let i = 0; i <= numero; i++){
         if(i % 2 != 0){
